@@ -24,7 +24,8 @@ To build a *Convolutional Neural Network (CNN)* model to classify images using d
 
 - CNN layers: Conv2D, MaxPooling2D, Flatten, Dense
 - Activation: ReLU, Softmax
-- Accuracy: Achieved accuracy of approximately *XX%* on the test dataset
+- Accuracy: Achieved accuracy of approximately 98.89% on the test dataset
+- Epochs: 5
 
 ## 📌 Conclusion
 
