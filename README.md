@@ -1,4 +1,4 @@
-# Task 3: CNN for Image Classification
+# CNN for Image Classification using TensorFlow
 
 This repository contains *Task 3* of the CodTech Machine Learning Internship (June – September 2025).
 
